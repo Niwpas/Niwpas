@@ -7,8 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=700&pause=200&color=8B949E&vCenter=true&repeat=false&width=850&height=24&lines=Building+across+systems+programming%2C+local+AI+workflows%2C+and+interactive+3D+environments." alt="Building across systems programming, local AI workflows, and interactive 3D environments." />
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=111827)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-8E4585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
